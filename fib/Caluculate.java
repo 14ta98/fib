@@ -1,4 +1,3 @@
-// package fib.fibo02;
 public class Caluculate {
   // フィボナッチ数列の処理
   public static void calFib(int inputNum) {
